@@ -1,5 +1,4 @@
 ![Header](./github-banner.png)
-<br>
 
 <h2 align="left">🧑🏻‍🎓 About Me</h2>
 
@@ -9,7 +8,6 @@
 
 ###
 
-<br>
 <h2 align="left">💻 Tech Stack</h2>
 
 ###
@@ -44,7 +42,6 @@
 
 ###
 
-<br>
 <h2 align="left">🌐 Connect with Me</h2>
 
 ###
@@ -69,25 +66,22 @@
 
 ###
 
-<br>
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/vaidyanathaniyer/vaidyanathaniyer/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<br>
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaidyanathaniyer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=vaidyanathaniyer&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&date_format=M j[, Y]&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaidyanathaniyer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaidyanathaniyer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=vaidyanathaniyer&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&date_format=M j[, Y]&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaidyanathaniyer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<br>
 <div align="center">
   <img src="https://profile-counter.glitch.me/vaidyanathaniyer/count.svg?"  />
 </div>
