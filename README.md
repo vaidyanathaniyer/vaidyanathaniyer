@@ -1,31 +1,95 @@
 ![Header](./github-banner.png)
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaidyanathaniyer&label=Profile%20views&color=0e75b6&style=flat" alt="vaidyanathaniyer" /> </p>
+<h2 align="left">🧑🏻‍🎓 About Me</h2>
 
-- 🔭 I’m currently working on **Python Programming Language**
+###
 
-- 🌱 I’m currently learning **Andriod & ios App Developement**
+<p align="left">I'm a sophomore student at Navrachana University 🏫 pursuing a major in Computer Science Engineering 💻 and a minor in Mechatronics 🤖.  <br><br>At the moment, I'm immersed in the world of Python Programming 🐍, refining my skills and uncovering the secrets of this versatile language. But that's not all! 🌱 I'm also enthusiastically diving into the captivating universe of Android and iOS app development, broadening my horizons and exploring the endless possibilities these platforms offer.<br><br>👯 Looking ahead, I'm actively seeking opportunities to collaborate on intriguing research projects 🧪. If you're up for some intellectual adventure, let's team up! 💬<br><br>Need assistance with problem-solving, Python programming, or mastering Visual Studio Code? I'm your go-to guru. 📄<br><br>And, for a more in-depth look at my journey and experiences, check out my resume here: https://resume.showwcase.com/vaidyanathaniyer.pdf<br><br>Let's code, learn, and innovate together! 🌟</p>
 
-- 👯 I’m looking to collaborate on **Research Projects**
+###
 
-- 💬 Ask me about **Problem Solving, Python Programming, Visual Studio Code**
+<br>
+<h2 align="left">💻 Tech Stack</h2>
 
-- 📫 How to reach me **vaidyanathaniyer.cse@gmail.com**
+###
 
-- 📄 Know about my experiences [https://resume.showwcase.com/vaidyanathaniyer.pdf?v=1697132799562](https://resume.showwcase.com/vaidyanathaniyer.pdf?v=1697132799562)
+<br clear="both">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vaidyanathan12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaidyanathan12" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/vaidyanathaniyer1704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vaidyanathaniyer1704" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vaidyanathaniyer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaidyanathaniyer" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user4575ft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user4575ft" height="30" width="40" /></a>
-<a href="https://discord.gg/1022919343580921866" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1022919343580921866" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaidyanathaniyer&show_icons=true&locale=en" alt="vaidyanathaniyer" /></p>
+<br>
+<h2 align="left">🌐 Connect with Me</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaidyanathaniyer&" alt="vaidyanathaniyer" /></p>
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="vaidyanathaniyer.cse@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/vaidyanathaniyer1704" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/vaidyanathan12" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.gg/1022919343580921866" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="hackerrank logo"  />
+</div>
+
+###
+
+<br>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/vaidyanathaniyer/vaidyanathaniyer/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br>
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaidyanathaniyer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=vaidyanathaniyer&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&date_format=M j[, Y]&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaidyanathaniyer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/vaidyanathaniyer/count.svg?"  />
+</div>
+
+###
