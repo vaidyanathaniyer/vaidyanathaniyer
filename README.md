@@ -1,14 +1,31 @@
 ![Header](./github-banner.png)
 
-<h2 align="left">🧑🏻‍🎓 About Me</h2>
+<p align="left">- 🎓 Sophomore student at Navrachana University 🏫<br>- 🖥️ Major in Computer Science Engineering 💻<br>- 🤖 Minor in Mechatronics<br><br>- 🐍 Exploring the world of Python Programming<br>- 🌱 Diving into Android and iOS app development<br>- 🌍 Broadening horizons and uncovering possibilities<br><br>- 👯 Actively seeking research collaboration opportunities 🧪<br>- 💬 Let's team up for intellectual adventures!<br><br>- 🛠️ Skills: Problem-solving, Python programming, Visual Studio Code<br>- 📄 Check out my resume [https://resume.showwcase.com/vaidyanathaniyer.pdf]</p>
 
 ###
 
-<p align="left">I'm a sophomore student at Navrachana University 🏫 pursuing a major in Computer Science Engineering 💻 and a minor in Mechatronics 🤖.  <br><br>At the moment, I'm immersed in the world of Python Programming 🐍, refining my skills and uncovering the secrets of this versatile language. But that's not all! 🌱 I'm also enthusiastically diving into the captivating universe of Android and iOS app development, broadening my horizons and exploring the endless possibilities these platforms offer.<br><br>👯 Looking ahead, I'm actively seeking opportunities to collaborate on intriguing research projects 🧪. If you're up for some intellectual adventure, let's team up! 💬<br><br>Need assistance with problem-solving, Python programming, or mastering Visual Studio Code? I'm your go-to guru. 📄<br><br>And, for a more in-depth look at my journey and experiences, check out my resume here: https://resume.showwcase.com/vaidyanathaniyer.pdf<br><br>Let's code, learn, and innovate together! 🌟</p>
+<br clear="both">
+
+<div align="left">
+  <a href="vaidyanathaniyer.cse@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/vaidyanathaniyer1704/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/vaidyanathan12" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.com/users/1022919343580921866" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo"  />
+  </a>
+</div>
 
 ###
 
-<h2 align="left">💻 Tech Stack</h2>
+<br clear="both">
+
+<h4 align="left">🚀 My Digital Arsenal 💻: Crafting Tomorrow's Technology Today" 🌟</h4>
 
 ###
 
@@ -19,7 +36,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+  <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
   <img width="12" />
@@ -38,52 +55,36 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
 </div>
 
 ###
 
-<h2 align="left">🌐 Connect with Me</h2>
+<br clear="both">
+
+<h4 align="left">📊 "Git-ting Things Done: My GitHub Journey" 🚀</h4>
 
 ###
-
-<br clear="both">
 
 <div align="center">
-  <a href="vaidyanathaniyer.cse@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/vaidyanathaniyer1704" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/vaidyanathan12" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
-  </a>
-  <a href="https://discord.gg/1022919343580921866" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="hackerrank logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaidyanathaniyer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaidyanathaniyer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=vaidyanathaniyer&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5&date_format=M j[, Y]&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/vaidyanathaniyer/vaidyanathaniyer/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaidyanathaniyer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=vaidyanathaniyer&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&date_format=M j[, Y]&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaidyanathaniyer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/vaidyanathaniyer/count.svg?"  />
 </div>
+
+###
+
+<h4 align="center">⬆️ 😎 GitGuardian: Keeping an 👀 on curious visitors just like you 😎 ⬆️</h4>
 
 ###
