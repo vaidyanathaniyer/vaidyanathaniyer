@@ -75,7 +75,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/vaidyanathaniyer/vaidyanathaniyer/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/vaidyanathaniyer/vaidyanathaniyer/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
