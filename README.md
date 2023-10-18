@@ -85,6 +85,6 @@
 
 ###
 
-<h4 align="center">😎 GitGuardian: Keeping an 👀 on curious visitors just like you 😎</h4>
+<p align="center">😎 GitGuardian: Keeping an 👀 on curious visitors just like you 😎</p>
 
 ###
