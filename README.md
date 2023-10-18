@@ -79,7 +79,7 @@
 
 ###
 
-<br clear="both">
+<div style="clear: both;"></div>
 
 <img align="right" src="https://profile-counter.glitch.me/vaidyanathaniyer/count.svg?"  />
 
