@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="220" src="https://octodex.github.com/images/octonaut.jpg"  />
+<img align="right" height="220" src="https://octodex.github.com/images/benevocats.png"/>
 
 ###
 
