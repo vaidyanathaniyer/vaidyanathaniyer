@@ -2,13 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=vaidyanathaniyer&label=GitGuardian+Monitoring+Curious+Visitors)
 
-###
-
 <img align="right" height="220" src="https://octodex.github.com/images/benevocats.png"/>
 
-###
-
-<p align="left" style="font-family: 'Anonymous Pro', monospace;">
+<p align="left" style="font-family: 'Cascadia Code', monospace; font-size: 15px;">
     - 💻 OS : macOS v14.3.1, Android v14<br>
     - ⏱️ Uptime : 19 years<br>
     - 🏢 Host : Navrachana University #NUV<br>
@@ -20,8 +16,6 @@
     - 🚀 Hobbies.Software : Pythonista, Crafting Android & iOS Apps<br>
     - 🛠️ Hobbies.Hardware : Arduino Tinkerer
 </p>
-
-###
 
 <br clear="both">
 
