@@ -19,4 +19,4 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/vaidyanathaniyer/vaidyanathaniyer/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/vaidyanathaniyer/vaidyanathaniyer/blob/output/github-contribution-grid-snake-dark.svg)
