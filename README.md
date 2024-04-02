@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=vaidyanathaniyer&label=GitGuardian+Monitoring+Curious+Visitors)
 
-<img align="right" height="250" src="https://octodex.github.com/images/benevocats.png"/>
+<img align="right" height="270" src="https://octodex.github.com/images/benevocats.png"/>
 
 <h3 align="left">
 
