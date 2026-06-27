@@ -1,23 +1,21 @@
 ```yml
-vaidyanathan@iyer
-——————
-OS: macOS Sequoia, android 14.0
-Uptime: 20 years
-Host: School of Engineering and Technology, Navrachana University #NUV
-Kernel: Computer Science + Mechatronics
-IDE: VSCode 1.97.0, Android Studio 2022.3.1, Xcode 16.0, Figma 124.7.4
+user: vaidyanathan@iyer
+————————————————————————
+OS: macOS Tahoe, iOS 26.5
+Uptime: 21 years
+Host: School of Engineering and Technology, Navrachana University (NUV)
+Kernel: Computer Science, Mechatronics, Robotics & Automation Engineering
+IDE: Cursor, AWS Kiro CLI, Figma
 
-Languages.Programming: Python, C, Java, Kotlin, Swift
+Languages.Programming: Python, C/C++, TypeScript
+Languages.Frameworks: Next.js, React, Tailwind CSS
 Languages.Computer: LaTeX, Markdown
-Languages.Real: English, Hindi, Tamil
+Languages.Real: English, Hindi, Tamil, Gujarati (new)
 
-Hobbies.Software: Pythonista, Android & iOS apps, LLMs
-Hobbies.Hardware: Arduino, Raspberry Pi
+Skills.Software: Agentic Systems, AIIoT
+Skills.Hardware: Arduino, Raspberry Pi, Nvidia Jetson Development Boards (new)
 
-Fun-Fact: When I'm not working, I enjoy exploring coffee shops around the city! ☕
+Mission.Life: Build the most powerful products, tools, and services globally to enrich people’s lives, encourage experimentation, learning, and creation of extraordinary new things.
+
+Fun.Fact: When I'm not working, I enjoy exploring coffee shops around the city! ☕
 ```
-
-<!---
-vaidyanathaniyer/vaidyanathaniyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
