@@ -15,9 +15,8 @@ Languages.Real: English, Hindi, Tamil, Gujarati (new)
 Skills.Software: Agentic Systems, AIIoT
 Skills.Hardware: Arduino, Raspberry Pi, Nvidia Jetson Development Boards (new)
 
-Mission.Life: Build the most powerful products, tools, and services globally to enrich
-people’s lives, encourage experimentation, learning, and creation of extraordinary
-new things.
+Mission.Life: Build the most powerful products, tools, and services globally to enrich people’s lives,
+encourage experimentation, learning, and creation of extraordinary new things.
 
 Fun.Fact: When I'm not working, I enjoy exploring coffee shops around the city! ☕
 ```
